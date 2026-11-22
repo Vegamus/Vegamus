@@ -1,9 +1,10 @@
-<h1 align="center">Mustafa · ILMIC</h1>
-<p align="center"><b>Practical AI. Real business systems. Built for growth.</b><br/>
+<h1 align="center">Mustafa Celebi</h1>
+<p align="center"><b>Founder of <a href="https://github.com/ilmic-ltd">ILMIC</a>. Practical AI. Real business systems. Built for growth.</b><br/>
 Automation, CRM and AI tools for UK service businesses: consultancies, immigration and education firms, property, recruitment, accountants and clinics.</p>
 
 <p align="center">
   <a href="https://ilmic.co.uk"><img src="https://img.shields.io/badge/ilmic.co.uk-0B1F3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ilmic.co.uk"/></a>
+  <a href="https://github.com/ilmic-ltd"><img src="https://img.shields.io/badge/GitHub-ilmic--ltd-0B1F3A?style=for-the-badge&logo=github&logoColor=white" alt="ILMIC on GitHub"/></a>
   <img src="https://img.shields.io/badge/London%2C%20UK-0B1F3A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="London, UK"/>
   <img src="https://img.shields.io/badge/English%20%C2%B7%20T%C3%BCrk%C3%A7e-0B1F3A?style=for-the-badge" alt="English and Turkish"/>
 </p>
@@ -35,7 +36,7 @@ The problem we solve is simple: **small service firms lose money between the enq
 - **GDPR by design.** Minimum data, UK/EU hosting where possible, no client data in logs or test fixtures.
 - **Everything fails loudly.** If a workflow breaks, someone knows within minutes.
 
-The patterns we reuse are written up in **[ilmic-automation-playbook](https://github.com/Vegamus/ilmic-automation-playbook)**.
+Company work lives in the **[ilmic-ltd](https://github.com/ilmic-ltd)** organisation. The patterns we reuse are written up in **[ilmic-automation-playbook](https://github.com/ilmic-ltd/ilmic-automation-playbook)**.
 
 ### Stack
 
